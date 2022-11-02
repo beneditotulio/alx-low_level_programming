@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - print _putchar and new line
- *
- * Return: 0 (Success)
- *
+ * main - print _putchar followed by a new line
+ * no parameter needed
+ * Return: 0 if successful
  */
 
 int main(void)
@@ -18,6 +17,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
