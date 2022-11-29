@@ -64,7 +64,7 @@
 * Returns: the address of the new node, or NULL if it failed
 * if it is not possible to add the new node at index idx, do not add the new node and return NULL
 
-10. Delete at index
+# 10. Delete at index
 -> Write a function that deletes the node at index index of a listint_t linked list.
 
 * Prototype: int delete_nodeint_at_index(listint_t **head, unsigned int index);
